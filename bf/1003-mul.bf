@@ -4,14 +4,11 @@
 # move value b into block 3 and block 4 (second loop)
 # move value in block 3 into block 0 (third loop)
 # move value in block 4 back to block 2.
+# apply code to display 2-digit result.
 
 >,------------------------------------------------
 >,------------------------------------------------
 	<[->[->+<]>[-<+<<+>>>]<<]>[-]
-
-###############################################################
-
-# the code below allows you to display a 2-digit product.
 
         ++++++++++<<[->+>-[>+>>]>[+[-<+>]>+>>]<<<<<<]
 	>>>>++++++++++++++++++++++++++++++++++++++++++++++++.
